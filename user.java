@@ -1,7 +1,12 @@
 public class user{
  public static void main(String[] args){
 
-     System.Out.println("hello git")
+     System.out.println("hello git")
+
+      if(1/1 == 0){
+	
+	System.out.println("hello git")
+	}
  }
 
 }
